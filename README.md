@@ -60,4 +60,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-This project is licensed under the MIT License.
+Please note that this script is provided under the following license terms:
+
+License: GNU General Public License v3.0
+
+The license restricts the selling or commercial usage of the script without obtaining appropriate permissions and may entitle the original author to royalties. Please refer to the license for more details.
+
+Feel free to use, modify, and distribute this script in accordance with the license terms.
