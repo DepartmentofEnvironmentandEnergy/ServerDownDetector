@@ -62,7 +62,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please note that this script is provided under the following license terms:
 
-License: GNU General Public License v3.0
+**License:** [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 The license restricts the selling or commercial usage of the script without obtaining appropriate permissions and may entitle the original author to royalties. Please refer to the license for more details.
 
