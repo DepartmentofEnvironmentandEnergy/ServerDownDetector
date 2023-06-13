@@ -67,3 +67,16 @@ Please note that this script is provided under the following license terms:
 The license restricts the selling or commercial usage of the script without obtaining appropriate permissions and may entitle the original author to royalties. Please refer to the license for more details.
 
 Feel free to use, modify, and distribute this script in accordance with the license terms.
+
+## Legal Disclaimer
+Disclaimer of Warranty and Limitation of Liability:
+
+The software script provided here ("Software") is distributed on an "AS IS" basis, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. The user assumes all responsibility for the selection of the Software to achieve the intended results, and for the installation, use, and results obtained from the Software. In no event shall the author, contributors or copyright holders be liable for any damages whatsoever, including - but not restricted to - lost revenue or profits or other direct, indirect, special, incidental or consequential damages, even if they have been advised of the possibility of such damages, except to the extent invariable law, if any, provides otherwise.
+
+The Software should not be relied upon as the sole means to make decisions or take actions that could result in harm, financial loss, or violations of law. The user is solely responsible for using the Software in compliance with applicable laws and regulations.
+
+By using the Software, you acknowledge that you understand and agree to the terms of this disclaimer. You further agree to indemnify and hold harmless the author, contributors, and copyright holders from any and all claims, demands, actions, liabilities, damages, or losses arising out of your use or misuse of the Software.
+
+Furthermore, it is important to be cautious and responsible with your email credentials. Avoid hardcoding them into the script, especially if you plan to share it. Consider using environment variables or a configuration file. Depending on the configuration of your email account and SMTP server, you might need to allow less secure apps or generate an app-specific password. Do not use the Software for spamming, harassment, or any illegal activities.
+
+This Disclaimer is governed by the laws in effect in the jurisdiction where you are using the Software.
